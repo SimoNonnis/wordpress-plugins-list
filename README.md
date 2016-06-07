@@ -6,7 +6,6 @@ A list of plugins for wordpress
 - Advanced Custom Field PRO: http://www.advancedcustomfields.com/pro
 - BackWPup Free: https://wordpress.org/plugins/backwpup/
 - Contact Form 7: https://wordpress.org/plugins/contact-form-7/
-- Google XML Sitemaps: https://wordpress.org/plugins/google-sitemap-generator/
 - iThemes Security: https://wordpress.org/plugins/better-wp-security/
 - RICG Responsive Images: https://wordpress.org/plugins/ricg-responsive-images/
 - Thumbnail Crop Position: https://wordpress.org/plugins/thumbnail-crop-position/
@@ -18,6 +17,7 @@ A list of plugins for wordpress
 ## If you are using multisite option
 - WordPress MU Domain Mapping: https://wordpress.org/plugins/wordpress-mu-domain-mapping/
 - Multisite User Management: https://wordpress.org/plugins/multisite-user-management/
+- Google XML Sitemaps: https://wordpress.org/plugins/google-sitemap-generator/
 
 
 
