@@ -1,5 +1,5 @@
 # wordpress-plugins-list
-A list of plugins for wordpress
+A living list of battle-tested plugins for wordpress
 
 ## Plugins
 
