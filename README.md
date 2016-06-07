@@ -8,7 +8,7 @@ A list of plugins for wordpress
 - Contact Form 7: https://wordpress.org/plugins/contact-form-7/
 - iThemes Security: https://wordpress.org/plugins/better-wp-security/
 - RICG Responsive Images: https://wordpress.org/plugins/ricg-responsive-images/
-- Thumbnail Crop Position: https://wordpress.org/plugins/thumbnail-crop-position/
+- Post Thumbnail Editor: https://wordpress.org/plugins/post-thumbnail-editor/
 - WordPress SEO: https://wordpress.org/plugins/wordpress-seo/
 - WP-Optimize: https://wordpress.org/plugins/wp-optimize/
 - WP Smush.it: https://wordpress.org/plugins/wp-smushit/
