@@ -1,7 +1,7 @@
 # wordpress-plugins-list
 A living list of battle-tested plugins for wordpress
 
-## Plugins
+### Plugins
 
 - Advanced Custom Field PRO: http://www.advancedcustomfields.com/pro
 - BackWPup Free: https://wordpress.org/plugins/backwpup/
@@ -14,7 +14,7 @@ A living list of battle-tested plugins for wordpress
 - WP Smush.it: https://wordpress.org/plugins/wp-smushit/
 - Comet Cache: https://wordpress.org/plugins/comet-cache/ 
 
-## If you are using multisite option
+### If you are using multisite option
 - WordPress MU Domain Mapping: https://wordpress.org/plugins/wordpress-mu-domain-mapping/
 - Multisite User Management: https://wordpress.org/plugins/multisite-user-management/
 - Google XML Sitemaps: https://wordpress.org/plugins/google-sitemap-generator/
